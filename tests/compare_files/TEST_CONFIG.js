@@ -10,3 +10,4 @@ class TestConfig {
     static get myCombinedString() { return 'I am telling you that this string got included from test-include.yaml.'; }
 }
 module.exports = TestConfig
+
