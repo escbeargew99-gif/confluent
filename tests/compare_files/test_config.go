@@ -20,3 +20,4 @@ var TestConfig = struct {
     mySubstitutedString: "Sometimes I just want to scream Hello Mars!",
     myCombinedString:    "I am telling you that this string got included from test-include.yaml.",
 }
+
