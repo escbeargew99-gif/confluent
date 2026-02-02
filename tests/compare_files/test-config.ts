@@ -1,3 +1,4 @@
+
 // Generated with confluent v0.3.0 (https://pypi.org/project/confluent/).
 export const TestConfig = {
     myBoolean: true,
