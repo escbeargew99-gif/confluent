@@ -11,3 +11,5 @@ public class TestConfig {
     public final static String mySubstitutedString = "Sometimes I just want to scream Hello World!";
     public final static String myCombinedString = "I am telling you that this string got included from test-include.yaml.";
 }
+
+
